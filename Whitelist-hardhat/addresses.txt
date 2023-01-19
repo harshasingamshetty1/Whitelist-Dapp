@@ -1,0 +1,1 @@
+Whitelist dapp on goerli testnet: 0x144e4938aCfbeeFa8db4a7566AC678E60fF7d423
